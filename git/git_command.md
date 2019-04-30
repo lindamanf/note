@@ -13,7 +13,7 @@ git clone hogehoge.git
 - gitのイニシャライズ(gitを使うファイルを指定)
 
 ```sh
-cd /<対象パス>
+cd <対象パス>
 git init 
 ```
 
@@ -54,5 +54,5 @@ git push -u origin master
 - ステータスの確認
 
 ```sh
-    git status
+git status
 ```
