@@ -1,5 +1,8 @@
 # Git Command
 
+- jjug勉強会資料
+https://speakerdeck.com/ihcomega56/itibanyasasiigithubru-men
+
 ## Remoteのリポジトリからソースをコピー
 
 - ソースのクローン
@@ -57,4 +60,3 @@ git push -u origin master
 git status
 ```
 
-https://speakerdeck.com/ihcomega56/itibanyasasiigithubru-men
