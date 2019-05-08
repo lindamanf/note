@@ -20,5 +20,5 @@ pg_dump -U [[user]] -h [[host]] -t [[table_name]] --schema-only --no-owner --no-
 * コマンドラインからファイルの実行
 
 ```bash
-psql -U postgres -d heartcore -h 127.0.0.1 -f ./aqf_hc.dump
+psql -U postgres -d heartcore -h 127.0.0.1 -f ./test.dump
 ```
