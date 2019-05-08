@@ -2,6 +2,19 @@
 
 #### PostgreSQLの操作
 
+* ログイン
+
+```bash
+psql -U postgres -h 127.0.0.1 -w
+```
+
+* 初期設定（例）
+
+```bash
+ALTER ROLE postgres WITH PASSWORD 'P@ssw0rd';
+CREATE DATABASE testdb encoding 'UTF8';
+```
+
 #### dump
 
 * テーブル指定した定義のみのdump
