@@ -56,3 +56,5 @@ git push -u origin master
 ```sh
 git status
 ```
+
+https://speakerdeck.com/ihcomega56/itibanyasasiigithubru-men
